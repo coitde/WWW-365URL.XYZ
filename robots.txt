@@ -1,5 +1,7 @@
 User-agent: *
+Sitemap: http://www.365url.xyz/sitemap.xml
 Allow: /
+
 
 
 
